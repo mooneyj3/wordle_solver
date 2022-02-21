@@ -44,11 +44,11 @@ class WordleGame:
             ans_ltr = self.answer[i]
             gue_ltr = player_guess[i]
 
-            
-
             # TODO: pick back up here.
             # Thought process -- leverage the 'a' in x and x.count() techniques to optimize how we solve this
             # start with the simple case (assuming no duplicate letters), then come back and handle duplicates
+
+            
         
 
         
